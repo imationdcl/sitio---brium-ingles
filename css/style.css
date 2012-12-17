@@ -60,6 +60,7 @@ img {
 	z-index: 2000;
 	top:0;
 	background: #fff url('../img/linea_colores.jpg') repeat-x top center;
+
 }
 #footer{
 	position: relative;
@@ -116,14 +117,15 @@ img {
 	position: relative;
 	float: right;
 }
-.imgages_socios{
+.imgaes_socios{
 	width: 132px;
 	height: 132px;
 	position: relative;
 	float: right;
 }
+
 .botonesmenu_somos{
-	width: 120px;
+	width: 99px;
 	height: 69px;
 	margin: 0 15px;
 	position: relative;
@@ -191,7 +193,6 @@ img.b {
 }
 
 /*fin rollover gray*/
-
 
 /*fin estilos varios*/
 /*colores*/
