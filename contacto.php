@@ -19,7 +19,7 @@ $mail->Port="465";
  
 $mail->SMTPAuth 	= true;                               // Enable SMTP authentication
 $mail->Username 	= 'contacto@brium.cl';                            // SMTP username
-$mail->Password 	= 'SocialBrium2012';                     // SMTP password
+$mail->Password 	= 'xxxxxx';                     // SMTP password
 //$mail->SMTPSecure 	= 'tls';                            // Enable encryption, 'ssl' also accepted
 
 $mail->From 		= "no-reply@brium.cl";
